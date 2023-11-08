@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "custom_user_validation"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

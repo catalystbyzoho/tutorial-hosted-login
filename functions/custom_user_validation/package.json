@@ -1,0 +1,9 @@
+{
+	"name": "custom_user_validation",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "support@zohocatalyst.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
